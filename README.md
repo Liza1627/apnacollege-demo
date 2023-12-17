@@ -1,2 +1,4 @@
 # apnacollege-demo
-This is My 2nd Repository.
+This is My 2nd git Repository.
+<br>
+Author- Lizarani Sahu
